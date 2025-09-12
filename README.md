@@ -1,6 +1,6 @@
 # 🧳✨ Travel Planning Assistant ✨🧭
 
-A collaborative 🤖 AI-powered travel planning application built with ⚡ FastAPI, 🎨 Streamlit, and 🌌 Gemini Flash 2.0 via 🐪 Ollama.
+A collaborative 🤖 AI-powered travel planning application built with ⚡ FastAPI,  Streamlit, and  Gemini Flash 2.0 via 
 
 ## 🌟 Features
 
