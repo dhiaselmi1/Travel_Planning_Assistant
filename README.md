@@ -22,7 +22,7 @@ A collaborative 🤖 AI-powered travel planning application built with ⚡ FastA
 
 ### 📋 Prerequisites
 - 🐍 Python 3.8+
-- 🐪 Ollama with Gemini Flash 2.0 model
+- 🐪 Gemini Flash 2.0 model
 - 📦 Required Python packages (see requirements below)
 
 ### 1️⃣ Install Dependencies
