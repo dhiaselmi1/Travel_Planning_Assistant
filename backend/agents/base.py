@@ -6,7 +6,7 @@ import os
 from datetime import datetime
 
 # 🔑 CONFIGURATION - Mets ta clé API Gemini ici
-GEMINI_API_KEY = "AIzaSyCF6MydBh6Kacv_14cNoZimz7A0oq6iPOs"
+GEMINI_API_KEY = ""
 
 
 class BaseAgent(ABC):
